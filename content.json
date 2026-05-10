@@ -149,41 +149,70 @@
     "plans": [
       {
         "name": "Free",
-        "price": "$0",
-        "period": "forever",
+        "price": "$0.00",
+        "period": "per month",
         "badge": null,
         "features": [
-          "Basic chat access",
-          "Standard queue wait times",
-          "Limited daily messages",
-          "Community bots access",
-          "Create up to 5 bots",
-          "Web version only"
+          "Unlimited messages",
+          "Full chatbot library access",
+          "NSFW content",
+          "Create your own character",
+          "Save conversations, favorite chatbots"
         ],
         "cta": "Get Started Free",
         "highlight": false
       },
       {
-        "name": "Premium",
-        "price": "$X.XX",
+        "name": "Get a Taste",
+        "price": "$5.00",
+        "period": "per month",
+        "badge": null,
+        "features": [
+          "All Free tier benefits",
+          "No ads",
+          "Skip the queue",
+          "Memory manager",
+          "User profiles - Up to 10"
+        ],
+        "cta": "Upgrade Now",
+        "highlight": false
+      },
+      {
+        "name": "True Supporter",
+        "price": "$14.95",
         "period": "per month",
         "badge": "MOST POPULAR",
         "features": [
-          "Priority queue (no waiting)",
-          "Unlimited messages",
-          "Voice messages",
-          "Create unlimited bots",
-          "Group chats",
-          "Lorebooks access",
-          "Mobile app access",
-          "Early access to new features",
-          "Creator leaderboard eligibility"
+          "All Get a Taste benefits",
+          "8K context (Memory)",
+          "Semantic Memory 2.0",
+          "Longer responses",
+          "Conversation images",
+          "Access to additional models",
+          "User profiles - Up to 50"
         ],
-        "cta": "Upgrade to Premium",
+        "cta": "Become a True Supporter",
         "highlight": true
+      },
+      {
+        "name": "I'm All In",
+        "price": "$24.95",
+        "period": "per month",
+        "badge": "BEST VALUE",
+        "features": [
+          "All True Supporter benefits",
+          "16K context (Memory)",
+          "Priority generation queue",
+          "Access to SpicyXL and advanced models",
+          "Conversation images on private chatbots",
+          "User profiles - Up to 100",
+          "Text-to-Speech (TTS) for AI responses"
+        ],
+        "cta": "Go All In",
+        "highlight": false
       }
     ],
-    "note": "Pricing varies by region. Check the official site for current rates in your country."
+    "note": "Pricing shown in USD. Check the official site for current rates in your region."
   },
   "comparison": {
     "title": "SpicyChat vs Alternatives",
