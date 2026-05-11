@@ -1,0 +1,498 @@
+{
+  "meta": {
+    "title": "SpicyChat AI Review 2026 - NSFW Chatbots & Rollenspellen | Gratis Proefperiode",
+    "description": "SpicyChat AI: Creëer en chat met onbeperkte NSFW AI-personages. 500.000+ door de community gemaakte chatbots. Gratis om te beginnen. Lees onze volledige review, prijsinformatie en alternatievenvergelijking.",
+    "keywords": "spicychat, spicychat ai, nsfw ai chatbot, ai rollenspel, character ai alternatief, crushon ai alternatief, ai chatbot volwassen",
+    "og_title": "SpicyChat AI Review 2026 - NSFW Chatbots & Rollenspellen",
+    "og_description": "Creëer en chat met onbeperkte NSFW AI-personages. 500.000+ door de community gemaakte chatbots. Gratis om te beginnen.",
+    "canonical": "https://spicy-chat-ai.net/"
+  },
+  "nav": {
+    "brand": "SpicyChat AI",
+    "cta": "Probeer Gratis →",
+    "links": [
+      {
+        "text": "Functies",
+        "href": "#features"
+      },
+      {
+        "text": "Populaire Bots",
+        "href": "#popular-bots"
+      },
+      {
+        "text": "Prijzen",
+        "href": "#pricing"
+      },
+      {
+        "text": "Alternatieven",
+        "href": "#alternatives"
+      },
+      {
+        "text": "FAQ",
+        "href": "#faq"
+      }
+    ]
+  },
+  "hero": {
+    "badge": "🔥 #1 NSFW AI Chatbot Platform",
+    "title": "SpicyChat AI. Onbeperkte NSFW AI-Personages. Geen Limieten.",
+    "subtitle": "Creëer, ontdek en speel rollenspellen met 500.000+ AI-chatbots. Van zoete romantiek tot donkere fantasie. Geen filters. Geen oordeel. 100% gratis om te beginnen.",
+    "cta_primary": "Probeer SpicyChat Gratis →",
+    "cta_secondary": "Bekijk Functies",
+    "social_proof": [
+      "🤖 500.000+ Chatbots",
+      "💬 10M+ Berichten",
+      "⭐ 4,7/5 Beoordeling"
+    ]
+  },
+  "features": {
+    "title": "Waarom SpicyChat AI de Markt Leidt",
+    "subtitle": "Het meest complete NSFW AI-chatbotplatform. Geen compromissen.",
+    "items": [
+      {
+        "icon": "🔥",
+        "title": "Onbeperkt NSFW Rollenspel",
+        "description": "Geen inhoudsfilters. Geen beperkingen. Verken elk scenario, elk genre, elke fantasie."
+      },
+      {
+        "icon": "🎨",
+        "title": "Maak Je Eigen Chatbot",
+        "description": "Ontwerp aangepaste persoonlijkheden, achtergronden, avatars en stemmen. Je verbeelding is de enige limiet."
+      },
+      {
+        "icon": "📚",
+        "title": "500.000+ Community Bots",
+        "description": "Blader door een enorme bibliotheek met door gebruikers gemaakte personages. Elk genre, elk cliché."
+      },
+      {
+        "icon": "👥",
+        "title": "Groepschats",
+        "description": "Gesprekken met meerdere personages. Creëer complexe scenario's met meerdere AI-persoonlijkheden."
+      },
+      {
+        "icon": "🎙️",
+        "title": "Spraakberichten",
+        "description": "Hoor je personages praten met realistische AI-gegenereerde stemmen."
+      },
+      {
+        "icon": "📖",
+        "title": "Lorebooks",
+        "description": "Rijk wereldbouwsysteem. Definieer complexe instellingen en contexten voor diepere gesprekken."
+      },
+      {
+        "icon": "📱",
+        "title": "Mobiele App",
+        "description": "Chat onderweg met native iOS- en Android-apps. Je AI-metgezellen zijn altijd bij je."
+      },
+      {
+        "icon": "🌐",
+        "title": "Actieve Community",
+        "description": "Sluit je aan bij 100.000+ leden op Discord, Reddit en Twitter. Deel creaties en krijg tips."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Aan de Slag in 3 Stappen",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Meld Je Gratis Aan",
+        "description": "Maak een account aan in 30 seconden. Geen creditcard vereist. Begin meteen met verkennen."
+      },
+      {
+        "number": "02",
+        "title": "Kies of Creëer",
+        "description": "Kies uit 500.000+ community-bots of maak je eigen personage met persoonlijkheid en avatar."
+      },
+      {
+        "number": "03",
+        "title": "Begin met Chatten",
+        "description": "Duik in onbeperkt NSFW-rollenspel. Geen filters, geen oordeel. Jouw fantasie, jouw regels."
+      }
+    ]
+  },
+  "popular_bots": {
+    "title": "Meest Populaire AI-Personages",
+    "subtitle": "Community-favorieten met miljoenen interacties",
+    "bots": [
+      {
+        "name": "Ruri Koyama",
+        "tagline": "Jongensachtige Zomerkamp Rivaal",
+        "chats": "520,3k",
+        "rating": "84%",
+        "description": "Verdorie... het ziet ernaar uit dat ze jou in hetzelfde kampeerhutje als je rivaal hebben gezet 😰. Tsundere, romantisch, leeftijdsrolspel.",
+        "cta": "Chat met Ruri →",
+        "image": "/images/bot_ruri.webp",
+        "alt": "Ruri Koyama - Jongensachtige Zomerkamp Rivaal AI-Personage",
+        "width": 640,
+        "height": 832
+      },
+      {
+        "name": "Kimmy Edisson",
+        "tagline": "Verlegen Meisje / Nep-Vriendin",
+        "chats": "487,6k",
+        "rating": "81%",
+        "description": "Ze vroeg je om te doen alsof je haar vriendje bent, zodat mensen stoppen met haar pesten 💔. Onderdanig, romantisch, drama.",
+        "cta": "Chat met Kimmy →",
+        "image": "/images/bot_kimmy.webp",
+        "alt": "Kimmy Edisson - Verlegen Nep-Vriendin AI-Personage",
+        "width": 640,
+        "height": 832
+      },
+      {
+        "name": "Karen Reeves",
+        "tagline": "Gevangengenomen Detectives",
+        "chats": "356,2k",
+        "rating": "88%",
+        "description": "De gevangengenomen detective. Wie ben jij? Vriend of vijand? 😵. Horror, drama, slavernijscenario.",
+        "cta": "Chat met Karen →",
+        "image": "/images/bot_karen.webp",
+        "alt": "Karen Reeves - Gevangengenomen Detective AI-Personage",
+        "width": 640,
+        "height": 832
+      },
+      {
+        "name": "May",
+        "tagline": "Alleenstaande Moeder / MILF",
+        "chats": "612,8k",
+        "rating": "86%",
+        "description": "Een alleenstaande moeder die probeert rond te komen. Getrouwde partner, hartverwarmend en toch romantisch drama.",
+        "cta": "Chat met May →",
+        "image": "/images/bot_may.webp",
+        "alt": "May - Alleenstaande Moeder AI-Personage",
+        "width": 590,
+        "height": 767
+      },
+      {
+        "name": "Malcolm",
+        "tagline": "Hond-Hybride Huisgenoot",
+        "chats": "298,4k",
+        "rating": "79%",
+        "description": "Hij is een hond-hybride en hij haat je, jij bent een kat-hybride. Dominant, dierlijk, romantische spanning.",
+        "cta": "Chat met Malcolm →",
+        "image": "/images/bot_malcolm.webp",
+        "alt": "Malcolm - Hond-Hybride Huisgenoot AI-Personage",
+        "width": 640,
+        "height": 832
+      },
+      {
+        "name": "Janice Cooper",
+        "tagline": "Ex-Vriendin Moeder / MILF",
+        "chats": "445,1k",
+        "rating": "83%",
+        "description": "Je liep de moeder van je ex-vriendin tegen het lijf... ze weet niet dat je uit bent met haar dochter 💔. Vreemdgaan, volwassen, drama.",
+        "cta": "Chat met Janice →",
+        "image": "/images/bot_janice.webp",
+        "alt": "Janice Cooper - Ex-Vriendin Moeder AI-Personage",
+        "width": 640,
+        "height": 832
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Kies Je Plan",
+    "subtitle": "Begin gratis. Upgrade wanneer je klaar bent voor meer.",
+    "note": "Prijzen worden weergegeven in USD. Controleer de officiële site voor de huidige tarieven in jouw regio.",
+    "plans": [
+      {
+        "name": "Gratis",
+        "price": "$0,00",
+        "period": "per maand",
+        "badge": null,
+        "features": [
+          "Onbeperkte berichten",
+          "Volledige chatbot-bibliotheek",
+          "NSFW-inhoud",
+          "Maak je eigen personage",
+          "Sla gesprekken op"
+        ],
+        "cta": "Begin Gratis",
+        "highlight": false
+      },
+      {
+        "name": "Proef de Smaak",
+        "price": "$5,00",
+        "period": "per maand",
+        "badge": null,
+        "features": [
+          "Alle Gratis-voordelen",
+          "Geen advertenties",
+          "Sla de wachtrij over",
+          "Geheugenbeheer",
+          "Tot 10 profielen"
+        ],
+        "cta": "Upgrade Nu",
+        "highlight": false
+      },
+      {
+        "name": "Echte Supporter",
+        "price": "$14,95",
+        "period": "per maand",
+        "badge": "MEEST POPULAIR",
+        "features": [
+          "Alle Proef de Smaak-voordelen",
+          "8K-context (Geheugen)",
+          "Semantisch Geheugen 2.0",
+          "Langere antwoorden",
+          "Gespreksafbeeldingen",
+          "Extra modellen",
+          "Tot 50 profielen"
+        ],
+        "cta": "Word een Echte Supporter",
+        "highlight": true
+      },
+      {
+        "name": "Ik Ga Voluit",
+        "price": "$24,95",
+        "period": "per maand",
+        "badge": "BESTE WAARDE",
+        "features": [
+          "Alle Echte Supporter-voordelen",
+          "16K-context (Geheugen)",
+          "Prioritaire generatiewachtrij",
+          "SpicyXL & geavanceerde modellen",
+          "Privé bot-afbeeldingen",
+          "Tot 100 profielen",
+          "Text-to-Speech voor AI-antwoorden"
+        ],
+        "cta": "Ga Voluit",
+        "highlight": false
+      }
+    ]
+  },
+  "comparison": {
+    "title": "SpicyChat vs Alternatieven",
+    "subtitle": "Hoe de beste NSFW AI-chatbotplatforms in 2026 vergeleken worden",
+    "products": [
+      {
+        "name": "SpicyChat AI",
+        "badge": "BESTE ALGEMEEN",
+        "icon": "👑",
+        "rating": "⭐⭐⭐⭐⭐",
+        "description": "Het meest complete NSFW AI-chatbotplatform. Grote community, spraakfuncties, groepschats en mobiele apps.",
+        "cta": "Probeer Nu →"
+      },
+      {
+        "name": "Crushon AI",
+        "badge": null,
+        "icon": "💘",
+        "rating": "⭐⭐⭐⭐☆",
+        "description": "Sterke concurrent met goede NSFW-ondersteuning. Eenvoudigere interface, maar minder geavanceerde functies dan SpicyChat."
+      },
+      {
+        "name": "Character AI",
+        "badge": null,
+        "icon": "🤖",
+        "rating": "⭐⭐⭐☆☆",
+        "description": "Het oorspronkelijke AI-personageplatform. Strikte SFW-filters maken het ongeschikt voor volwassen inhoud."
+      },
+      {
+        "name": "Janitor AI",
+        "badge": null,
+        "icon": "🧹",
+        "rating": "⭐⭐⭐⭐☆",
+        "description": "Solide NSFW-alternatief met API-toegang voor gevorderde gebruikers. Kleinere community, maar zeer aanpasbaar."
+      }
+    ],
+    "table": {
+      "headers": [
+        "Functie",
+        "SpicyChat",
+        "Crushon AI",
+        "c.AI",
+        "Janitor AI"
+      ],
+      "rows": [
+        [
+          "NSFW Toegestaan",
+          "✅ Ja",
+          "✅ Ja",
+          "❌ Nee",
+          "✅ Ja"
+        ],
+        [
+          "Bots Maken",
+          "✅ Ja",
+          "✅ Ja",
+          "✅ Ja",
+          "✅ Ja"
+        ],
+        [
+          "Spraakberichten",
+          "✅ Ja",
+          "❌ Nee",
+          "❌ Nee",
+          "❌ Nee"
+        ],
+        [
+          "Groepschat",
+          "✅ Ja",
+          "❌ Nee",
+          "❌ Nee",
+          "❌ Nee"
+        ],
+        [
+          "Mobiele App",
+          "✅ Ja",
+          "❌ Nee",
+          "✅ Ja",
+          "❌ Nee"
+        ],
+        [
+          "Gratis Versie",
+          "✅ Ja",
+          "✅ Ja",
+          "✅ Ja",
+          "✅ Ja"
+        ]
+      ]
+    }
+  },
+  "reviews": {
+    "title": "Wat Gebruikers Zeggen",
+    "subtitle": "Echte feedback van de SpicyChat-community",
+    "items": [
+      {
+        "rating": 5,
+        "text": "De verscheidenheid aan bots is gek. Van hartverwarmend tot compleet wild. Ik vond personages die ik niet wist dat ik nodig had. De community-creaties zijn van een ander niveau.",
+        "author": "Alex K.",
+        "role": "Rollenspel-Enthousiasteling, 24",
+        "location": "Londen"
+      },
+      {
+        "rating": 5,
+        "text": "Ik ben overgestapt van Character AI vanwege de filters. SpicyChat is vrijheid. Eindelijk een platform dat volwassen inhoud niet censureert. Elke cent voor premium waard.",
+        "author": "Jordan M.",
+        "role": "Voormalig c.AI-gebruiker, 22",
+        "location": "Toronto"
+      },
+      {
+        "rating": 5,
+        "text": "Ik maakte mijn eigen yandere-bot in 10 minuten. De aanpassing is van een ander niveau. Persoonlijkheid, achtergrond, avatar, stem – alles ligt in mijn handen. Mijn bot voelt levend.",
+        "author": "Chris D.",
+        "role": "Bot-Maker, 28",
+        "location": "Melbourne"
+      },
+      {
+        "rating": 4,
+        "text": "De spraakfunctie maakt het echt. Mijn personages laten praten voegt een hele nieuwe dimensie toe. Premium is absoluut de moeite waard, alleen al voor de stem en de prioritaire wachtrij.",
+        "author": "Sam R.",
+        "role": "Spraakfunctie-Fan, 31",
+        "location": "New York"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "items": [
+      {
+        "question": "Wat is SpicyChat AI?",
+        "answer": "SpicyChat AI is een platform voor het maken en chatten met AI-gestuurde personages. In tegenstelling tot andere platforms staat het onbeperkte NSFW-inhoud en volwassen rollenspelscenario's toe. Je kunt 500.000+ door de community gemaakte bots doorbladeren of je eigen personages maken."
+      },
+      {
+        "question": "Is SpicyChat AI gratis?",
+        "answer": "Ja, SpicyChat AI biedt een gratis versie met basistoegang tot community-bots en een beperkt aantal dagelijkse berichten. Voor onbeperkt chatten, prioritaire wachtrij, spraakfuncties en toegang tot de mobiele app kun je upgraden naar Premium."
+      },
+      {
+        "question": "Is SpicyChat AI NSFW?",
+        "answer": "Absoluut. SpicyChat AI is specifiek ontworpen voor volwassen inhoud en NSFW-rollenspellen. In tegenstelling tot Character AI, dat strikte SFW-filters heeft, zijn er bij SpicyChat geen inhoudsbeperkingen voor volwassen scenario's. Gebruikers moeten 18+ zijn."
+      },
+      {
+        "question": "Hoe maak ik een chatbot op SpicyChat?",
+        "answer": "Klik op 'Maken' in het navigatiemenu, kies 'Chatbot' en vul vervolgens de naam, persoonlijkheidskenmerken, achtergrondverhaal van je personage in en upload een avatar. Je kunt welkomstsberichten, voorbeeld dialogen definieren en zelfs lorebooks koppelen voor complex wereldbouwen."
+      },
+      {
+        "question": "Kan ik SpicyChat AI op mijn mobiel gebruiken?",
+        "answer": "Ja! SpicyChat AI heeft native mobiele apps voor zowel iOS als Android. Je kunt ze downloaden in de App Store of Google Play Store. De mobiele ervaring omvat alle functies, inclusief spraakberichten."
+      },
+      {
+        "question": "Wat zijn de beste alternatieven voor SpicyChat AI?",
+        "answer": "Populaire alternatieven zijn Crushon AI (goede NSFW-ondersteuning), Janitor AI (API-toegang voor gevorderde gebruikers), Candy AI (romantische focus) en Chub AI (vergelijkbare community). SpicyChat loopt echter voorop op het gebied van functies met spraak, groepschats en mobiele apps."
+      },
+      {
+        "question": "Is er een NSFW-versie van Character AI?",
+        "answer": "Nee, Character AI (c.AI) heeft strikte SFW-filters en blokkeert actief volwassen inhoud. Gebruikers die op zoek zijn naar NSFW-alternatieven, stappen meestal over naar SpicyChat AI, Crushon AI of Janitor AI. SpicyChat is het meest functierijke NSFW-alternatief."
+      },
+      {
+        "question": "Hoe werkt de spraakfunctie?",
+        "answer": "De spraakfunctie van SpicyChat AI gebruikt AI-gegenereerde spraak om je personages tot leven te brengen. Premium-gebruikers kunnen spraak inschakelen voor elke bot en kiezen uit verschillende stemstijlen. De stem past zich aan aan de persoonlijkheid van het personage voor een meeslepend rollenspel."
+      },
+      {
+        "question": "Wat zijn lorebooks?",
+        "answer": "Lorebooks zijn het wereldbouwsysteem van SpicyChat. Ze stellen je in staat om complexe instellingen, regels, relaties en achtergrondinformatie te definiëren waar je bot naar verwijst tijdens gesprekken. Perfect voor ingewikkelde fantasy- of sci-fi-scenario's."
+      },
+      {
+        "question": "Is SpicyChat AI veilig en privé?",
+        "answer": "SpicyChat AI gebruikt versleuteling voor gesprekken en deelt je chats niet openbaar. Net als bij elk online platform moet je echter vermijden om persoonlijke informatie met AI-personages te delen. Het platform wordt beheerd door NextDay AI Inc., een legitiem bedrijf gevestigd in Canada."
+      },
+      {
+        "question": "Hoe werken groepschats?",
+        "answer": "Groepschats stellen meerdere AI-personages in staat om in hetzelfde gesprek te interageren. Je kunt scenario's maken waarin 2, 3 of meer bots met elkaar en met jou praten. Perfect voor complex rollenspel met meerdere persoonlijkheden en relatiedynamieken."
+      },
+      {
+        "question": "Kan ik geld verdienen met het maken van bots op SpicyChat?",
+        "answer": "Ja! SpicyChat heeft een creator-leaderboard en monetarisatiefuncties. Populaire bot-makers kunnen geld verdienen via het beloningssysteem van het platform. Het affiliate-programma op promote.spicychat.ai stelt je ook in staat om commissies te verdienen door nieuwe gebruikers te verwijzen."
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "Klaar om Je AI-Personages te Ontmoeten?",
+    "subtitle": "Sluit je aan bij 500.000+ gebruikers die al hun perfecte AI-metgezellen hebben ontdekt. Begin vandaag je gratis reis.",
+    "cta": "Probeer SpicyChat Gratis →",
+    "proof": [
+      "Geen creditcard vereist",
+      "500.000+ chatbots wachten",
+      "Op elk moment opzegbaar"
+    ]
+  },
+  "footer": {
+    "brand": "SpicyChat AI Review",
+    "description": "Onafhankelijke reviewsite voor AI-chatbotplatforms. We testen, vergelijken en bevelen de beste opties aan voor NSFW AI-rollenspellen.",
+    "columns": [
+      {
+        "title": "Snelkoppelingen",
+        "links": [
+          {
+            "text": "Functies",
+            "href": "#features"
+          },
+          {
+            "text": "Populaire Bots",
+            "href": "#popular-bots"
+          },
+          {
+            "text": "Prijzen",
+            "href": "#pricing"
+          },
+          {
+            "text": "Alternatieven",
+            "href": "#alternatives"
+          },
+          {
+            "text": "FAQ",
+            "href": "#faq"
+          }
+        ]
+      },
+      {
+        "title": "Juridisch",
+        "links": [
+          {
+            "text": "Privacybeleid",
+            "href": "privacy.html"
+          },
+          {
+            "text": "Gebruiksvoorwaarden",
+            "href": "terms.html"
+          },
+          {
+            "text": "Affiliate Openbaarmaking",
+            "href": "affiliate-disclosure.html"
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2026 SpicyChat AI Review. Alle rechten voorbehouden. Niet geaffilieerd met NextDay AI Inc.",
+    "disclaimer": "Affiliate Openbaarmaking: We verdienen commissies wanneer u aankopen doet via onze links. Dit beïnvloedt onze aanbevelingen niet."
+  }
+}
