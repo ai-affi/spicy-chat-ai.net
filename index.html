@@ -100,10 +100,12 @@
     .review-card{background:rgba(255,255,255,.05);backdrop-filter:blur(10px)}
     .bot-card{transition:all .3s ease;overflow:hidden;border-radius:12px}
     .bot-card:hover{transform:translateY(-8px);box-shadow:0 20px 40px rgba(225,29,72,.3)}
-    .hero-with-bg{position:relative;min-height:600px;display:flex;align-items:center;justify-content:center;overflow:hidden}
-    .hero-bg-img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:1}
-    .hero-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(to bottom,rgba(15,10,15,.4),rgba(15,10,15,.95));z-index:2}
-    .hero-content{position:relative;z-index:3}
+    .bot-img{aspect-ratio:640/832;width:100%;object-fit:cover;object-position:top}
+    .hero-section{display:flex;align-items:center;gap:2rem;max-width:1200px;margin:0 auto;padding:4rem 1rem}
+    .hero-banner{flex:0 0 45%;max-width:500px;border-radius:16px;overflow:hidden;box-shadow:0 20px 60px rgba(225,29,72,.3)}
+    .hero-banner img{width:100%;height:auto;display:block}
+    .hero-text{flex:1;text-align:left}
+    @media(max-width:768px){.hero-section{flex-direction:column;text-align:center;padding:2rem 1rem}.hero-banner{flex:0 0 auto;width:100%;max-width:400px;margin:0 auto}.hero-text{text-align:center}}
   </style>
 </head>
 <body class="font-sans">
@@ -130,31 +132,34 @@
   </nav>
 
   <!-- Hero Section -->
-  <section class="hero-with-bg gradient-bg">
-    <img src="/images/hero_banner.webp" alt="SpicyChat AI - NSFW AI Chatbots and Roleplay" class="hero-bg-img" fetchpriority="high" decoding="async" width="1200" height="600" />
-    <div class="hero-overlay"></div>
-    <div class="hero-content max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center py-20 lg:py-28">
-      <div class="inline-block mb-4 px-4 py-1 rounded-full bg-rose-500/20 border border-rose-500/40 text-rose-300 text-sm font-medium">
-        🔥 #1 NSFW AI Chatbot Platform
+  <section class="gradient-bg">
+    <div class="hero-section">
+      <div class="hero-banner">
+        <img src="/images/hero_banner.webp" alt="SpicyChat AI - NSFW AI Chatbots and Roleplay" fetchpriority="high" decoding="async" width="817" height="687" />
       </div>
-      <h1 class="text-5xl lg:text-7xl font-extrabold mb-6 leading-tight glow-text">
-        SpicyChat AI. Unlimited NSFW AI Characters. Zero Limits.
-      </h1>
-      <p class="text-xl lg:text-2xl mb-10 text-gray-300 max-w-3xl mx-auto leading-relaxed">
-        Create, discover, and roleplay with 500,000+ AI chatbots. From sweet romance to dark fantasy. No filters. No judgment. 100% free to start.
-      </p>
-      <div class="flex flex-col sm:flex-row gap-4 justify-center mb-8">
-        <a href="/go/spicychat" class="affiliate-link cta-pulse inline-flex items-center justify-center px-10 py-5 bg-gradient-to-r from-rose-500 to-purple-600 text-white font-bold text-xl rounded-xl hover:from-rose-600 hover:to-purple-700 transition transform hover:scale-105 shadow-lg shadow-rose-500/30" rel="nofollow noreferrer noopener">
-          Try SpicyChat Free →
-        </a>
-        <a href="#features" class="inline-flex items-center justify-center px-10 py-5 border-2 border-rose-500/50 text-rose-300 font-bold text-xl rounded-xl hover:bg-rose-500/10 transition">
-          See Features
-        </a>
-      </div>
-      <div class="flex flex-col sm:flex-row items-center justify-center gap-6 text-sm text-gray-400">
-        <span class="flex items-center gap-1"><span class="text-green-400">✓</span> 🤖 500K+ Chatbots</span>
-        <span class="flex items-center gap-1"><span class="text-green-400">✓</span> 💬 10M+ Messages</span>
-        <span class="flex items-center gap-1"><span class="text-green-400">✓</span> ⭐ 4.7/5 Rating</span>
+      <div class="hero-text">
+        <div class="inline-block mb-4 px-4 py-1 rounded-full bg-rose-500/20 border border-rose-500/40 text-rose-300 text-sm font-medium">
+          🔥 #1 NSFW AI Chatbot Platform
+        </div>
+        <h1 class="text-4xl lg:text-6xl font-extrabold mb-6 leading-tight glow-text">
+          SpicyChat AI. Unlimited NSFW AI Characters. Zero Limits.
+        </h1>
+        <p class="text-lg lg:text-xl mb-8 text-gray-300 max-w-xl leading-relaxed">
+          Create, discover, and roleplay with 500,000+ AI chatbots. From sweet romance to dark fantasy. No filters. No judgment. 100% free to start.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-start mb-6">
+          <a href="/go/spicychat" class="affiliate-link cta-pulse inline-flex items-center justify-center px-8 py-4 bg-gradient-to-r from-rose-500 to-purple-600 text-white font-bold text-lg rounded-xl hover:from-rose-600 hover:to-purple-700 transition transform hover:scale-105 shadow-lg shadow-rose-500/30" rel="nofollow noreferrer noopener">
+            Try SpicyChat Free →
+          </a>
+          <a href="#features" class="inline-flex items-center justify-center px-8 py-4 border-2 border-rose-500/50 text-rose-300 font-bold text-lg rounded-xl hover:bg-rose-500/10 transition">
+            See Features
+          </a>
+        </div>
+        <div class="flex flex-col sm:flex-row items-start gap-4 text-sm text-gray-400">
+          <span class="flex items-center gap-1"><span class="text-green-400">✓</span> 🤖 500K+ Chatbots</span>
+          <span class="flex items-center gap-1"><span class="text-green-400">✓</span> 💬 10M+ Messages</span>
+          <span class="flex items-center gap-1"><span class="text-green-400">✓</span> ⭐ 4.7/5 Rating</span>
+        </div>
       </div>
     </div>
   </section>
@@ -250,8 +255,8 @@
       </p>
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
         <div class="bot-card bg-gray-800 rounded-xl overflow-hidden border border-gray-700">
-          <div class="aspect-square overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
-            <img src="/images/bot_ruri.webp" alt="Ruri Koyama - Tomboy Summer Camp Rival AI Character" class="w-full h-full object-cover" loading="lazy" />
+          <div class="overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
+            <img src="/images/bot_ruri.webp" alt="Ruri Koyama - Tomboy Summer Camp Rival AI Character" class="bot-img" loading="lazy" decoding="async" width="640" height="832" />
           </div>
           <div class="p-5">
             <h3 class="font-bold text-lg text-white">Ruri Koyama</h3>
@@ -265,8 +270,8 @@
           </div>
         </div>
         <div class="bot-card bg-gray-800 rounded-xl overflow-hidden border border-gray-700">
-          <div class="aspect-square overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
-            <img src="/images/bot_kimmy.webp" alt="Kimmy Edisson - Shy Girl Fake Girlfriend AI Character" class="w-full h-full object-cover" loading="lazy" />
+          <div class="overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
+            <img src="/images/bot_kimmy.webp" alt="Kimmy Edisson - Shy Girl Fake Girlfriend AI Character" class="bot-img" loading="lazy" decoding="async" width="640" height="832" />
           </div>
           <div class="p-5">
             <h3 class="font-bold text-lg text-white">Kimmy Edisson</h3>
@@ -280,8 +285,8 @@
           </div>
         </div>
         <div class="bot-card bg-gray-800 rounded-xl overflow-hidden border border-gray-700">
-          <div class="aspect-square overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
-            <img src="/images/bot_karen.webp" alt="Karen Reeves - Captured Detective AI Character" class="w-full h-full object-cover" loading="lazy" />
+          <div class="overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
+            <img src="/images/bot_karen.webp" alt="Karen Reeves - Captured Detective AI Character" class="bot-img" loading="lazy" decoding="async" width="640" height="832" />
           </div>
           <div class="p-5">
             <h3 class="font-bold text-lg text-white">Karen Reeves</h3>
@@ -295,8 +300,8 @@
           </div>
         </div>
         <div class="bot-card bg-gray-800 rounded-xl overflow-hidden border border-gray-700">
-          <div class="aspect-square overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
-            <img src="/images/bot_may.webp" alt="May - Single Mom Struggling AI Character" class="w-full h-full object-cover" loading="lazy" />
+          <div class="overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
+            <img src="/images/bot_may.webp" alt="May - Single Mom Struggling AI Character" class="bot-img" loading="lazy" decoding="async" width="590" height="767" />
           </div>
           <div class="p-5">
             <h3 class="font-bold text-lg text-white">May</h3>
@@ -310,8 +315,8 @@
           </div>
         </div>
         <div class="bot-card bg-gray-800 rounded-xl overflow-hidden border border-gray-700">
-          <div class="aspect-square overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
-            <img src="/images/bot_malcolm.webp" alt="Malcolm - Dog Hybrid Roommate AI Character" class="w-full h-full object-cover" loading="lazy" />
+          <div class="overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
+            <img src="/images/bot_malcolm.webp" alt="Malcolm - Dog Hybrid Roommate AI Character" class="bot-img" loading="lazy" decoding="async" width="640" height="832" />
           </div>
           <div class="p-5">
             <h3 class="font-bold text-lg text-white">Malcolm</h3>
@@ -325,8 +330,8 @@
           </div>
         </div>
         <div class="bot-card bg-gray-800 rounded-xl overflow-hidden border border-gray-700">
-          <div class="aspect-square overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
-            <img src="/images/bot_janice.webp" alt="Janice Cooper - Ex's Mother AI Character" class="w-full h-full object-cover" loading="lazy" />
+          <div class="overflow-hidden bg-gradient-to-br from-rose-900/50 to-purple-900/50 flex items-center justify-center">
+            <img src="/images/bot_janice.webp" alt="Janice Cooper - Ex's Mother AI Character" class="bot-img" loading="lazy" decoding="async" width="640" height="832" />
           </div>
           <div class="p-5">
             <h3 class="font-bold text-lg text-white">Janice Cooper</h3>
