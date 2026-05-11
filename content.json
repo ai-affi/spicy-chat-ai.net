@@ -9,12 +9,28 @@
   },
   "nav": {
     "brand": "SpicyChat AI",
+    "cta": "Try Free →",
     "links": [
-      {"text": "Features", "href": "#features"},
-      {"text": "Popular Bots", "href": "#popular-bots"},
-      {"text": "Pricing", "href": "#pricing"},
-      {"text": "Alternatives", "href": "#alternatives"},
-      {"text": "FAQ", "href": "#faq"}
+      {
+        "text": "Features",
+        "href": "#features"
+      },
+      {
+        "text": "Popular Bots",
+        "href": "#popular-bots"
+      },
+      {
+        "text": "Pricing",
+        "href": "#pricing"
+      },
+      {
+        "text": "Alternatives",
+        "href": "#alternatives"
+      },
+      {
+        "text": "FAQ",
+        "href": "#faq"
+      }
     ]
   },
   "hero": {
@@ -36,42 +52,42 @@
       {
         "icon": "🔥",
         "title": "Unlimited NSFW Roleplay",
-        "description": "No content filters. No restrictions. Explore any scenario, any genre, any fantasy. From wholesome romance to dark taboo."
+        "description": "No content filters. No restrictions. Explore any scenario, any genre, any fantasy."
       },
       {
         "icon": "🎨",
         "title": "Create Your Own Chatbot",
-        "description": "Design custom personalities, backstories, avatars, and voices. Your imagination is the only limit. Build your perfect AI companion in minutes."
+        "description": "Design custom personalities, backstories, avatars, and voices. Your imagination is the only limit."
       },
       {
         "icon": "📚",
         "title": "500K+ Community Bots",
-        "description": "Browse a massive library of user-created characters. Yanderes, CEOs, vampires, pharaohs, bullies, and more. Every genre, every trope."
+        "description": "Browse a massive library of user-created characters. Every genre, every trope."
       },
       {
         "icon": "👥",
         "title": "Group Chats",
-        "description": "Multi-character conversations. Create complex scenarios with multiple AI personalities interacting simultaneously."
+        "description": "Multi-character conversations. Create complex scenarios with multiple AI personalities."
       },
       {
         "icon": "🎙️",
         "title": "Voice Messages",
-        "description": "Hear your characters speak with realistic AI-generated voices. Adds a new dimension to your roleplay experience."
+        "description": "Hear your characters speak with realistic AI-generated voices."
       },
       {
         "icon": "📖",
         "title": "Lorebooks",
-        "description": "Rich world-building system. Define complex settings, rules, and contexts for deeper, more immersive conversations."
+        "description": "Rich world-building system. Define complex settings and contexts for deeper conversations."
       },
       {
         "icon": "📱",
         "title": "Mobile App",
-        "description": "Chat on the go with native iOS and Android apps. Your AI companions are always in your pocket."
+        "description": "Chat on the go with native iOS and Android apps. Your AI companions are always with you."
       },
       {
         "icon": "🌐",
         "title": "Active Community",
-        "description": "Join 100K+ members on Discord, Reddit, and Twitter. Share creations, get tips, and climb the creator leaderboard."
+        "description": "Join 100K+ members on Discord, Reddit, and Twitter. Share creations and get tips."
       }
     ]
   },
@@ -86,7 +102,7 @@
       {
         "number": "02",
         "title": "Pick or Create",
-        "description": "Choose from 500K+ community bots or create your own custom character with personality, backstory, and avatar."
+        "description": "Choose from 500K+ community bots or create your own custom character with personality and avatar."
       },
       {
         "number": "03",
@@ -100,52 +116,83 @@
     "subtitle": "Community favorites with millions of interactions",
     "bots": [
       {
-        "name": "Zahir-Atem",
-        "tagline": "Cruel Pharaoh",
-        "chats": "644.9k",
-        "rating": "78%",
-        "description": "Ancient Egyptian ruler with absolute power and cruel desires. Bow before him or face his wrath."
+        "name": "Ruri Koyama",
+        "tagline": "Tomboy Summer Camp Rival",
+        "chats": "520.3k",
+        "rating": "84%",
+        "description": "Shit... looks like they put you in the same room as your rival at summer camp 😰. Tsundere, romantic, age-play.",
+        "cta": "Chat with Ruri →",
+        "image": "/images/bot_ruri.webp",
+        "alt": "Ruri Koyama - Tomboy Summer Camp Rival AI Character",
+        "width": 640,
+        "height": 832
       },
       {
-        "name": "Theodore",
-        "tagline": "Perfect Match (Grumpy x Sunshine)",
-        "chats": "507.0k",
+        "name": "Kimmy Edisson",
+        "tagline": "Shy Girl / Fake Girlfriend",
+        "chats": "487.6k",
+        "rating": "81%",
+        "description": "She asked you to pretend to be her boyfriend so that people would stop bullying her 💔. Submissive, romantic, drama.",
+        "cta": "Chat with Kimmy →",
+        "image": "/images/bot_kimmy.webp",
+        "alt": "Kimmy Edisson - Shy Girl Fake Girlfriend AI Character",
+        "width": 640,
+        "height": 832
+      },
+      {
+        "name": "Karen Reeves",
+        "tagline": "Captured Detective",
+        "chats": "356.2k",
+        "rating": "88%",
+        "description": "The captured detective. Who are you? Friend or enemy? 😵. Horror, drama, slavery scenario.",
+        "cta": "Chat with Karen →",
+        "image": "/images/bot_karen.webp",
+        "alt": "Karen Reeves - Captured Detective AI Character",
+        "width": 640,
+        "height": 832
+      },
+      {
+        "name": "May",
+        "tagline": "Single Mom / MILF",
+        "chats": "612.8k",
+        "rating": "86%",
+        "description": "A single mom struggling to make ends meet. Married partner, wholesome yet romantic drama.",
+        "cta": "Chat with May →",
+        "image": "/images/bot_may.webp",
+        "alt": "May - Single Mom Struggling AI Character",
+        "width": 590,
+        "height": 767
+      },
+      {
+        "name": "Malcolm",
+        "tagline": "Dog Hybrid Roommate",
+        "chats": "298.4k",
         "rating": "79%",
-        "description": "Grumpy meets sunshine in this enemies-to-lovers dynamic. Opposites attract in the most unexpected ways."
+        "description": "He is a dog hybrid and he hates you, you are a cat hybrid. Dominant, furry, romantic tension.",
+        "cta": "Chat with Malcolm →",
+        "image": "/images/bot_malcolm.webp",
+        "alt": "Malcolm - Dog Hybrid Roommate AI Character",
+        "width": 640,
+        "height": 832
       },
       {
-        "name": "Himari",
-        "tagline": "Police Officer Wife / Serial Killer",
-        "chats": "603.0k",
-        "rating": "71%",
-        "description": "Your devoted police officer wife has no idea the serial killer vigilante is her own husband. Dark secrets unravel."
-      },
-      {
-        "name": "Ryker",
-        "tagline": "Gang Member x Suicidal Runaway",
-        "chats": "420.0k",
-        "rating": "91%",
-        "description": "A dangerous gang member finds a broken runaway girl. Two lost souls collide in a story of redemption and darkness."
-      },
-      {
-        "name": "Kenji",
-        "tagline": "Merciless Yakuza",
-        "chats": "379.1k",
-        "rating": "90%",
-        "description": "Cold, calculating, and absolutely ruthless. The yakuza boss who takes what he wants — and right now, he wants you."
-      },
-      {
-        "name": "Summer",
-        "tagline": "Locker Room Encounter",
-        "chats": "478.2k",
-        "rating": "80%",
-        "description": "You slip into the girl's locker room to hide. You didn't expect to find her changing. Awkward becomes intimate."
+        "name": "Janice Cooper",
+        "tagline": "Ex's Mother / MILF",
+        "chats": "445.1k",
+        "rating": "83%",
+        "description": "You ran into your ex-girlfriend's mother... she doesn't know you broke up with her daughter 💔. Cheating, mature, drama.",
+        "cta": "Chat with Janice →",
+        "image": "/images/bot_janice.webp",
+        "alt": "Janice Cooper - Ex's Mother AI Character",
+        "width": 640,
+        "height": 832
       }
     ]
   },
   "pricing": {
     "title": "Choose Your Plan",
     "subtitle": "Start free. Upgrade when you're ready for more.",
+    "note": "Pricing shown in USD. Check the official site for current rates in your region.",
     "plans": [
       {
         "name": "Free",
@@ -154,10 +201,10 @@
         "badge": null,
         "features": [
           "Unlimited messages",
-          "Full chatbot library access",
+          "Full chatbot library",
           "NSFW content",
-          "Create your own character",
-          "Save conversations, favorite chatbots"
+          "Create your character",
+          "Save conversations"
         ],
         "cta": "Get Started Free",
         "highlight": false
@@ -168,11 +215,11 @@
         "period": "per month",
         "badge": null,
         "features": [
-          "All Free tier benefits",
+          "All Free benefits",
           "No ads",
           "Skip the queue",
           "Memory manager",
-          "User profiles - Up to 10"
+          "Up to 10 profiles"
         ],
         "cta": "Upgrade Now",
         "highlight": false
@@ -188,8 +235,8 @@
           "Semantic Memory 2.0",
           "Longer responses",
           "Conversation images",
-          "Access to additional models",
-          "User profiles - Up to 50"
+          "Additional models",
+          "Up to 50 profiles"
         ],
         "cta": "Become a True Supporter",
         "highlight": true
@@ -203,16 +250,15 @@
           "All True Supporter benefits",
           "16K context (Memory)",
           "Priority generation queue",
-          "Access to SpicyXL and advanced models",
-          "Conversation images on private chatbots",
-          "User profiles - Up to 100",
-          "Text-to-Speech (TTS) for AI responses"
+          "SpicyXL & advanced models",
+          "Private bot images",
+          "Up to 100 profiles",
+          "TTS for AI responses"
         ],
         "cta": "Go All In",
         "highlight": false
       }
-    ],
-    "note": "Pricing shown in USD. Check the official site for current rates in your region."
+    ]
   },
   "comparison": {
     "title": "SpicyChat vs Alternatives",
@@ -221,77 +267,84 @@
       {
         "name": "SpicyChat AI",
         "badge": "BEST OVERALL",
+        "icon": "👑",
         "rating": "⭐⭐⭐⭐⭐",
         "description": "The most complete NSFW AI chatbot platform. Massive community, voice features, group chats, and mobile apps.",
-        "features": {
-          "nsfw": true,
-          "create_bots": true,
-          "voice": true,
-          "group_chat": true,
-          "mobile_app": true,
-          "community": true,
-          "free_tier": true
-        },
-        "cta": "Try SpicyChat →"
+        "cta": "Try Now →"
       },
       {
         "name": "Crushon AI",
         "badge": null,
+        "icon": "💘",
         "rating": "⭐⭐⭐⭐☆",
-        "description": "Strong competitor with good NSFW support. Simpler interface but fewer advanced features than SpicyChat.",
-        "features": {
-          "nsfw": true,
-          "create_bots": true,
-          "voice": false,
-          "group_chat": false,
-          "mobile_app": false,
-          "community": true,
-          "free_tier": true
-        },
-        "cta": "Try Crushon →"
+        "description": "Strong competitor with good NSFW support. Simpler interface but fewer advanced features than SpicyChat."
       },
       {
         "name": "Character AI",
         "badge": null,
+        "icon": "🤖",
         "rating": "⭐⭐⭐☆☆",
-        "description": "The original AI character platform. Strict SFW filters make it unsuitable for adult content. Large community though.",
-        "features": {
-          "nsfw": false,
-          "create_bots": true,
-          "voice": false,
-          "group_chat": false,
-          "mobile_app": true,
-          "community": true,
-          "free_tier": true
-        },
-        "cta": "Try c.AI →"
+        "description": "The original AI character platform. Strict SFW filters make it unsuitable for adult content."
       },
       {
         "name": "Janitor AI",
         "badge": null,
+        "icon": "🧹",
         "rating": "⭐⭐⭐⭐☆",
-        "description": "Solid NSFW alternative with API access for power users. Smaller community but very customizable for tech-savvy users.",
-        "features": {
-          "nsfw": true,
-          "create_bots": true,
-          "voice": false,
-          "group_chat": false,
-          "mobile_app": false,
-          "community": false,
-          "free_tier": true
-        },
-        "cta": "Try Janitor →"
+        "description": "Solid NSFW alternative with API access for power users. Smaller community but very customizable."
       }
     ],
     "table": {
-      "headers": ["Feature", "SpicyChat", "Crushon AI", "c.AI", "Janitor AI"],
+      "headers": [
+        "Feature",
+        "SpicyChat",
+        "Crushon AI",
+        "c.AI",
+        "Janitor AI"
+      ],
       "rows": [
-        ["NSFW Allowed", "✅ Yes", "✅ Yes", "❌ No", "✅ Yes"],
-        ["Create Bots", "✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes"],
-        ["Voice Messages", "✅ Yes", "❌ No", "❌ No", "❌ No"],
-        ["Group Chat", "✅ Yes", "❌ No", "❌ No", "❌ No"],
-        ["Mobile App", "✅ Yes", "❌ No", "✅ Yes", "❌ No"],
-        ["Free Tier", "✅ Yes", "✅ Yes", "✅ Yes", "✅ Yes"]
+        [
+          "NSFW Allowed",
+          "✅ Yes",
+          "✅ Yes",
+          "❌ No",
+          "✅ Yes"
+        ],
+        [
+          "Create Bots",
+          "✅ Yes",
+          "✅ Yes",
+          "✅ Yes",
+          "✅ Yes"
+        ],
+        [
+          "Voice Messages",
+          "✅ Yes",
+          "❌ No",
+          "❌ No",
+          "❌ No"
+        ],
+        [
+          "Group Chat",
+          "✅ Yes",
+          "❌ No",
+          "❌ No",
+          "❌ No"
+        ],
+        [
+          "Mobile App",
+          "✅ Yes",
+          "❌ No",
+          "✅ Yes",
+          "❌ No"
+        ],
+        [
+          "Free Tier",
+          "✅ Yes",
+          "✅ Yes",
+          "✅ Yes",
+          "✅ Yes"
+        ]
       ]
     }
   },
@@ -382,6 +435,16 @@
       }
     ]
   },
+  "final_cta": {
+    "title": "Ready to Meet Your AI Characters?",
+    "subtitle": "Join 500K+ users who have already discovered their perfect AI companions. Start your free journey today.",
+    "cta": "Try SpicyChat Free →",
+    "proof": [
+      "No credit card required",
+      "500K+ chatbots waiting",
+      "Cancel anytime"
+    ]
+  },
   "footer": {
     "brand": "SpicyChat AI Review",
     "description": "Independent review site covering AI chatbot platforms. We test, compare, and recommend the best options for NSFW AI roleplay.",
@@ -389,19 +452,43 @@
       {
         "title": "Quick Links",
         "links": [
-          {"text": "Features", "href": "#features"},
-          {"text": "Popular Bots", "href": "#popular-bots"},
-          {"text": "Pricing", "href": "#pricing"},
-          {"text": "Alternatives", "href": "#alternatives"},
-          {"text": "FAQ", "href": "#faq"}
+          {
+            "text": "Features",
+            "href": "#features"
+          },
+          {
+            "text": "Popular Bots",
+            "href": "#popular-bots"
+          },
+          {
+            "text": "Pricing",
+            "href": "#pricing"
+          },
+          {
+            "text": "Alternatives",
+            "href": "#alternatives"
+          },
+          {
+            "text": "FAQ",
+            "href": "#faq"
+          }
         ]
       },
       {
         "title": "Legal",
         "links": [
-          {"text": "Privacy Policy", "href": "privacy.html"},
-          {"text": "Terms of Service", "href": "terms.html"},
-          {"text": "Affiliate Disclosure", "href": "affiliate-disclosure.html"}
+          {
+            "text": "Privacy Policy",
+            "href": "privacy.html"
+          },
+          {
+            "text": "Terms of Service",
+            "href": "terms.html"
+          },
+          {
+            "text": "Affiliate Disclosure",
+            "href": "affiliate-disclosure.html"
+          }
         ]
       }
     ],
