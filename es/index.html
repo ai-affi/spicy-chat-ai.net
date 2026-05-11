@@ -41,22 +41,6 @@
     .hero-text{flex:1;text-align:left}
     @media(max-width:768px){.hero-section{flex-direction:column;text-align:center;padding:2rem 1rem}.hero-banner{flex:0 0 auto;width:100%;max-width:400px;margin:0 auto}.hero-text{text-align:center}}
   </style>
-
-  <!-- hreflang -->
-  <link rel="alternate" hreflang="x-default" href="https://spicy-chat-ai.net/" />
-  <link rel="alternate" hreflang="en" href="https://spicy-chat-ai.net/" />
-  <link rel="alternate" hreflang="fr" href="https://spicy-chat-ai.net/fr/" />
-  <link rel="alternate" hreflang="de" href="https://spicy-chat-ai.net/de/" />
-  <link rel="alternate" hreflang="es" href="https://spicy-chat-ai.net/es/" />
-  <link rel="alternate" hreflang="pt" href="https://spicy-chat-ai.net/pt-br/" />
-  <link rel="alternate" hreflang="nl" href="https://spicy-chat-ai.net/nl/" />
-  <link rel="alternate" hreflang="ja" href="https://spicy-chat-ai.net/jp/" />
-  <link rel="alternate" hreflang="ko" href="https://spicy-chat-ai.net/kr/" />
-  <link rel="alternate" hreflang="ru" href="https://spicy-chat-ai.net/ru/" />
-  <link rel="alternate" hreflang="hi" href="https://spicy-chat-ai.net/hi/" />
-  <link rel="alternate" hreflang="tr" href="https://spicy-chat-ai.net/tr/" />
-  <link rel="alternate" hreflang="ar" href="https://spicy-chat-ai.net/ar/" />
-  <link rel="alternate" hreflang="it" href="https://spicy-chat-ai.net/it/" />
 </head>
 <body class="font-sans">
   <nav class="bg-gray-900/90 backdrop-blur-md border-b border-gray-800 sticky top-0 z-50">
@@ -158,6 +142,27 @@
   <footer class="bg-gray-950 border-t border-gray-800 py-12">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div id="footer-grid" class="grid md:grid-cols-3 gap-8 mb-8"></div>
+      
+      <!-- Language Selector -->
+      <div class="border-t border-gray-800 pt-6 mb-6">
+        <div class="flex flex-wrap items-center justify-center gap-2">
+          <span class="text-gray-500 text-sm mr-2">🌐 Language:</span>
+          <a href="/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-rose-500 text-white font-medium" data-lang="es">English</a>
+          <a href="/fr/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="fr">Français</a>
+          <a href="/de/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="de">Deutsch</a>
+          <a href="/es/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="es">Español</a>
+          <a href="/pt-br/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="pt">Português</a>
+          <a href="/nl/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="nl">Nederlands</a>
+          <a href="/it/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="it">Italiano</a>
+          <a href="/jp/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="ja">日本語</a>
+          <a href="/kr/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="ko">한국어</a>
+          <a href="/ru/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="ru">Русский</a>
+          <a href="/hi/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="hi">हिन्दी</a>
+          <a href="/tr/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="tr">Türkçe</a>
+          <a href="/ar/" class="lang-link px-3 py-1 rounded-full text-sm transition bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white" data-lang="ar">العربية</a>
+        </div>
+      </div>
+      
       <div class="border-t border-gray-800 pt-8 text-center text-sm text-gray-500">
         <p id="footer-copy"></p>
         <p class="mt-2" id="footer-disc"></p>
@@ -308,6 +313,15 @@ fetch('content.es.json')
     });
     document.getElementById('footer-copy').textContent = c.footer.copyright;
     document.getElementById('footer-disc').textContent = c.footer.disclaimer;
+    
+    // Language selector - highlight current language
+    const currentLang = document.documentElement.lang || 'en';
+    document.querySelectorAll('.lang-link').forEach(link => {
+      if (link.dataset.lang === currentLang) {
+        link.classList.remove('bg-gray-800', 'text-gray-400', 'hover:bg-gray-700', 'hover:text-white');
+        link.classList.add('bg-rose-500', 'text-white', 'font-medium');
+      }
+    });
   });
   </script>
 
