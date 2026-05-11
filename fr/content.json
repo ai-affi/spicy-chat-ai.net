@@ -1,0 +1,498 @@
+{
+  "meta": {
+    "title": "SpicyChat AI Avis 2026 - Chatbots NSFW & Jeu de Rôle | Essai Gratuit",
+    "description": "SpicyChat AI : créez et discutez avec des chatbots IA NSFW illimités. Plus de 500 000 chatbots créés par la communauté. Gratuit pour commencer. Lisez notre avis complet, nos tarifs et notre comparaison avec les alternatives.",
+    "keywords": "spicychat, spicychat ai, chatbot ia nsfw, jeu de rôle ia, alternative character ai, alternative crushon ai, chatbot ia adulte",
+    "og_title": "SpicyChat AI Avis 2026 - Chatbots NSFW & Jeu de Rôle",
+    "og_description": "Créez et discutez avec des personnages IA NSFW illimités. Plus de 500 000 chatbots créés par la communauté. Gratuit pour commencer.",
+    "canonical": "https://spicy-chat-ai.net/"
+  },
+  "nav": {
+    "brand": "SpicyChat AI",
+    "cta": "Essai gratuit →",
+    "links": [
+      {
+        "text": "Fonctionnalités",
+        "href": "#features"
+      },
+      {
+        "text": "Bots populaires",
+        "href": "#popular-bots"
+      },
+      {
+        "text": "Tarifs",
+        "href": "#pricing"
+      },
+      {
+        "text": "Alternatives",
+        "href": "#alternatives"
+      },
+      {
+        "text": "FAQ",
+        "href": "#faq"
+      }
+    ]
+  },
+  "hero": {
+    "badge": "🔥 Plateforme #1 de Chatbot IA NSFW",
+    "title": "SpicyChat AI. Personnages IA NSFW illimités. Zéro limite.",
+    "subtitle": "Créez, découvrez et jouez un rôle avec plus de 500 000 chatbots IA. Romance douce ou fantasy sombre. Pas de filtres. Pas de jugement. 100% gratuit pour commencer.",
+    "cta_primary": "Essayer SpicyChat gratuitement →",
+    "cta_secondary": "Voir les fonctionnalités",
+    "social_proof": [
+      "🤖 500k+ Chatbots",
+      "💬 10M+ Messages",
+      "⭐ 4.7/5 Note"
+    ]
+  },
+  "features": {
+    "title": "Pourquoi SpicyChat AI domine le marché",
+    "subtitle": "La plateforme de chatbot IA NSFW la plus complète. Aucun compromis.",
+    "items": [
+      {
+        "icon": "🔥",
+        "title": "Jeu de rôle NSFW illimité",
+        "description": "Aucun filtre de contenu. Aucune restriction. Explorez n'importe quel scénario, genre ou fantasme."
+      },
+      {
+        "icon": "🎨",
+        "title": "Créez votre propre chatbot",
+        "description": "Concevez des personnalités, histoires, avatars et voix sur mesure. Votre imagination est la seule limite."
+      },
+      {
+        "icon": "📚",
+        "title": "500k+ Bots communautaires",
+        "description": "Parcourez une immense bibliothèque de personnages créés par les utilisateurs. Tous les genres, tous les archétypes."
+      },
+      {
+        "icon": "👥",
+        "title": "Discussions de groupe",
+        "description": "Conversations multi-personnages. Créez des scénarios complexes avec plusieurs personnalités IA."
+      },
+      {
+        "icon": "🎙️",
+        "title": "Messages vocaux",
+        "description": "Écoutez vos personnages parler avec des voix réalistes générées par IA."
+      },
+      {
+        "icon": "📖",
+        "title": "Livres de lore",
+        "description": "Système riche de construction d'univers. Définissez des paramètres et contextes complexes pour des conversations plus profondes."
+      },
+      {
+        "icon": "📱",
+        "title": "Application mobile",
+        "description": "Discutez en déplacement avec les applis natives iOS et Android. Vos compagnons IA sont toujours avec vous."
+      },
+      {
+        "icon": "🌐",
+        "title": "Communauté active",
+        "description": "Rejoignez plus de 100 000 membres sur Discord, Reddit et Twitter. Partagez vos créations et obtenez des conseils."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Commencez en 3 étapes",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Inscrivez-vous gratuitement",
+        "description": "Créez un compte en 30 secondes. Pas de carte bancaire requise. Commencez à explorer immédiatement."
+      },
+      {
+        "number": "02",
+        "title": "Choisissez ou créez",
+        "description": "Choisissez parmi plus de 500 000 bots communautaires ou créez votre propre personnage avec personnalité et avatar."
+      },
+      {
+        "number": "03",
+        "title": "Commencez à discuter",
+        "description": "Plongez dans un jeu de rôle NSFW illimité. Pas de filtres, pas de jugement. Votre fantasme, vos règles."
+      }
+    ]
+  },
+  "popular_bots": {
+    "title": "Personnages IA les plus populaires",
+    "subtitle": "Les favoris de la communauté avec des millions d'interactions",
+    "bots": [
+      {
+        "name": "Ruri Koyama",
+        "tagline": "Rivale garçon manqué au camp d'été",
+        "chats": "520,3k",
+        "rating": "84%",
+        "description": "Mince… on dirait qu'ils t'ont mis dans la même chambre que ta rivale au camp d'été 😰. Tsundere, romantique, jeu sur l'âge.",
+        "cta": "Discuter avec Ruri →",
+        "image": "/images/bot_ruri.webp",
+        "alt": "Ruri Koyama - Personnage IA rival garçon manqué au camp d'été",
+        "width": 640,
+        "height": 832
+      },
+      {
+        "name": "Kimmy Edisson",
+        "tagline": "Fille timide / Fausse petite amie",
+        "chats": "487,6k",
+        "rating": "81%",
+        "description": "Elle t'a demandé de jouer le rôle de son copain pour qu'on arrête de l'intimider 💔. Soumise, romantique, drame.",
+        "cta": "Discuter avec Kimmy →",
+        "image": "/images/bot_kimmy.webp",
+        "alt": "Kimmy Edisson - Personnage IA fille timide fausse petite amie",
+        "width": 640,
+        "height": 832
+      },
+      {
+        "name": "Karen Reeves",
+        "tagline": "Détective capturée",
+        "chats": "356,2k",
+        "rating": "88%",
+        "description": "La détective capturée. Qui es-tu ? Ami ou ennemi ? 😵. Horreur, drame, scénario d'esclavage.",
+        "cta": "Discuter avec Karen →",
+        "image": "/images/bot_karen.webp",
+        "alt": "Karen Reeves - Personnage IA détective capturée",
+        "width": 640,
+        "height": 832
+      },
+      {
+        "name": "May",
+        "tagline": "Maman solo / MILF",
+        "chats": "612,8k",
+        "rating": "86%",
+        "description": "Une mère célibataire qui a du mal à joindre les deux bouts. Partenaire mariée, drame sain et romantique.",
+        "cta": "Discuter avec May →",
+        "image": "/images/bot_may.webp",
+        "alt": "May - Personnage IA maman solo en difficulté",
+        "width": 590,
+        "height": 767
+      },
+      {
+        "name": "Malcolm",
+        "tagline": "Coloc hybride chien",
+        "chats": "298,4k",
+        "rating": "79%",
+        "description": "C'est un hybride chien et il te déteste, toi l'hybride chat. Dominant, furry, tension romantique.",
+        "cta": "Discuter avec Malcolm →",
+        "image": "/images/bot_malcolm.webp",
+        "alt": "Malcolm - Personnage IA coloc hybride chien",
+        "width": 640,
+        "height": 832
+      },
+      {
+        "name": "Janice Cooper",
+        "tagline": "Mère de l'ex / MILF",
+        "chats": "445,1k",
+        "rating": "83%",
+        "description": "Tu as croisé la mère de ton ex-petite amie… elle ne sait pas que tu as rompu avec sa fille 💔. Infidélité, mature, drame.",
+        "cta": "Discuter avec Janice →",
+        "image": "/images/bot_janice.webp",
+        "alt": "Janice Cooper - Personnage IA mère de l'ex",
+        "width": 640,
+        "height": 832
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Choisissez votre formule",
+    "subtitle": "Commencez gratuitement. Passez à un forfait supérieur quand vous êtes prêt à en profiter davantage.",
+    "note": "Tarifs affichés en USD. Consultez le site officiel pour les prix en vigueur dans votre région.",
+    "plans": [
+      {
+        "name": "Gratuit",
+        "price": "0,00 $",
+        "period": "par mois",
+        "badge": null,
+        "features": [
+          "Messages illimités",
+          "Bibliothèque complète de chatbots",
+          "Contenu NSFW",
+          "Créez votre personnage",
+          "Sauvegardez les conversations"
+        ],
+        "cta": "Commencer gratuitement",
+        "highlight": false
+      },
+      {
+        "name": "Goût du produit",
+        "price": "5,00 $",
+        "period": "par mois",
+        "badge": null,
+        "features": [
+          "Tous les avantages Gratuit",
+          "Sans publicité",
+          "Passez la file d'attente",
+          "Gestionnaire de mémoire",
+          "Jusqu'à 10 profils"
+        ],
+        "cta": "Passer au supérieur",
+        "highlight": false
+      },
+      {
+        "name": "Vrai supporter",
+        "price": "14,95 $",
+        "period": "par mois",
+        "badge": "LE PLUS POPULAIRE",
+        "features": [
+          "Tous les avantages Goût du produit",
+          "Contexte 8K (mémoire)",
+          "Mémoire sémantique 2.0",
+          "Réponses plus longues",
+          "Images de conversation",
+          "Modèles supplémentaires",
+          "Jusqu'à 50 profils"
+        ],
+        "cta": "Devenir un vrai supporter",
+        "highlight": true
+      },
+      {
+        "name": "Je suis à fond",
+        "price": "24,95 $",
+        "period": "par mois",
+        "badge": "MEILLEUR RAPPORT QUALITÉ/PRIX",
+        "features": [
+          "Tous les avantages Vrai supporter",
+          "Contexte 16K (mémoire)",
+          "File de génération prioritaire",
+          "SpicyXL et modèles avancés",
+          "Images de bot privées",
+          "Jusqu'à 100 profils",
+          "TTS pour les réponses IA"
+        ],
+        "cta": "S'investir à fond",
+        "highlight": false
+      }
+    ]
+  },
+  "comparison": {
+    "title": "SpicyChat vs Alternatives",
+    "subtitle": "Comment les meilleures plateformes de chatbot IA NSFW se comparent en 2026",
+    "products": [
+      {
+        "name": "SpicyChat AI",
+        "badge": "MEILLEUR GLOBAL",
+        "icon": "👑",
+        "rating": "⭐⭐⭐⭐⭐",
+        "description": "La plateforme de chatbot IA NSFW la plus complète. Communauté massive, fonctionnalités vocales, discussions de groupe et applications mobiles.",
+        "cta": "Essayer maintenant →"
+      },
+      {
+        "name": "Crushon AI",
+        "badge": null,
+        "icon": "💘",
+        "rating": "⭐⭐⭐⭐☆",
+        "description": "Concurrent solide avec un bon support NSFW. Interface plus simple mais moins de fonctionnalités avancées que SpicyChat."
+      },
+      {
+        "name": "Character AI",
+        "badge": null,
+        "icon": "🤖",
+        "rating": "⭐⭐⭐☆☆",
+        "description": "La plateforme originale de personnages IA. Des filtres SFW stricts la rendent inadaptée au contenu adulte."
+      },
+      {
+        "name": "Janitor AI",
+        "badge": null,
+        "icon": "🧹",
+        "rating": "⭐⭐⭐⭐☆",
+        "description": "Alternative NSFW solide avec accès API pour les utilisateurs avancés. Communauté plus petite mais très personnalisable."
+      }
+    ],
+    "table": {
+      "headers": [
+        "Fonctionnalité",
+        "SpicyChat",
+        "Crushon AI",
+        "c.AI",
+        "Janitor AI"
+      ],
+      "rows": [
+        [
+          "NSFW autorisé",
+          "✅ Oui",
+          "✅ Oui",
+          "❌ Non",
+          "✅ Oui"
+        ],
+        [
+          "Créer des bots",
+          "✅ Oui",
+          "✅ Oui",
+          "✅ Oui",
+          "✅ Oui"
+        ],
+        [
+          "Messages vocaux",
+          "✅ Oui",
+          "❌ Non",
+          "❌ Non",
+          "❌ Non"
+        ],
+        [
+          "Discussion de groupe",
+          "✅ Oui",
+          "❌ Non",
+          "❌ Non",
+          "❌ Non"
+        ],
+        [
+          "Application mobile",
+          "✅ Oui",
+          "❌ Non",
+          "✅ Oui",
+          "❌ Non"
+        ],
+        [
+          "Niveau gratuit",
+          "✅ Oui",
+          "✅ Oui",
+          "✅ Oui",
+          "✅ Oui"
+        ]
+      ]
+    }
+  },
+  "reviews": {
+    "title": "Ce que disent les utilisateurs",
+    "subtitle": "Des retours réels de la communauté SpicyChat",
+    "items": [
+      {
+        "rating": 5,
+        "text": "La variété des bots est dingue. Du wholesome à l'absolument sauvage. J'ai trouvé des personnages dont j'ignorais avoir besoin. Les créations de la communauté sont d'un autre niveau.",
+        "author": "Alex K.",
+        "role": "Passionné de jeu de rôle, 24 ans",
+        "location": "Londres"
+      },
+      {
+        "rating": 5,
+        "text": "J'ai quitté Character AI à cause des filtres. SpicyChat, c'est la liberté. Enfin une plateforme qui ne censure pas le contenu adulte. Chaque centime dépensé pour le premium en vaut la peine.",
+        "author": "Jordan M.",
+        "role": "Ancien utilisateur de c.AI, 22 ans",
+        "location": "Toronto"
+      },
+      {
+        "rating": 5,
+        "text": "J'ai créé mon propre bot yandere en 10 minutes. La personnalisation est d'un autre niveau. Personnalité, histoire, avatar, voix — tout est sous mon contrôle. Mon bot semble vivant.",
+        "author": "Chris D.",
+        "role": "Créateur de bot, 28 ans",
+        "location": "Melbourne"
+      },
+      {
+        "rating": 4,
+        "text": "La fonction vocale lui donne vie. Entendre mon personnage parler ajoute une toute nouvelle dimension. Le premium vaut vraiment le coup rien que pour la voix et la file prioritaire.",
+        "author": "Sam R.",
+        "role": "Fan de la fonction vocale, 31 ans",
+        "location": "New York"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Foire aux questions",
+    "items": [
+      {
+        "question": "Qu'est-ce que SpicyChat AI ?",
+        "answer": "SpicyChat AI est une plateforme pour créer et discuter avec des personnages alimentés par IA. Contrairement à d'autres plateformes, elle autorise le contenu NSFW sans restriction et les scénarios de jeu de rôle adulte. Vous pouvez parcourir plus de 500 000 bots créés par la communauté ou créer vos propres personnages."
+      },
+      {
+        "question": "Est-ce que SpicyChat AI est gratuit ?",
+        "answer": "Oui, SpicyChat AI propose un niveau gratuit avec un accès de base aux bots communautaires et un nombre limité de messages quotidiens. Pour des messages illimités, une file prioritaire, des fonctionnalités vocales et l'accès à l'application mobile, vous pouvez passer au Premium."
+      },
+      {
+        "question": "Est-ce que SpicyChat AI est NSFW ?",
+        "answer": "Absolument. SpicyChat AI est spécifiquement conçu pour le contenu adulte et le jeu de rôle NSFW. Contrairement à Character AI qui a des filtres SFW stricts, SpicyChat n'a aucune restriction de contenu pour les scénarios adultes. Les utilisateurs doivent avoir 18 ans ou plus."
+      },
+      {
+        "question": "Comment créer un chatbot sur SpicyChat ?",
+        "answer": "Cliquez sur 'Créer' dans le menu de navigation, choisissez 'Chatbot', puis remplissez le nom de votre personnage, ses traits de personnalité, son histoire et téléchargez un avatar. Vous pouvez définir des messages d'accueil, des dialogues d'exemple et même connecter des livres de lore pour une construction d'univers complexe."
+      },
+      {
+        "question": "Puis-je utiliser SpicyChat AI sur mobile ?",
+        "answer": "Oui ! SpicyChat AI dispose d'applications mobiles natives pour iOS et Android. Vous pouvez les télécharger depuis l'App Store ou Google Play Store. L'expérience mobile inclut toutes les fonctionnalités, y compris les messages vocaux."
+      },
+      {
+        "question": "Quelles sont les meilleures alternatives à SpicyChat AI ?",
+        "answer": "Les meilleures alternatives incluent Crushon AI (bon support NSFW), Janitor AI (accès API pour utilisateurs avancés), Candy AI (axe romantique) et Chub AI (communauté similaire). Cependant, SpicyChat est leader en fonctionnalités avec la voix, les discussions de groupe et les applis mobiles."
+      },
+      {
+        "question": "Existe-t-il une version NSFW de Character AI ?",
+        "answer": "Non, Character AI (c.AI) a des filtres SFW stricts et bloque activement le contenu adulte. Les utilisateurs cherchant des alternatives NSFW se tournent généralement vers SpicyChat AI, Crushon AI ou Janitor AI. SpicyChat est l'alternative NSFW la plus complète en fonctionnalités."
+      },
+      {
+        "question": "Comment fonctionne la fonction vocale ?",
+        "answer": "La fonction vocale de SpicyChat AI utilise la parole générée par IA pour donner vie à vos personnages. Les utilisateurs Premium peuvent activer la voix pour n'importe quel bot, en choisissant parmi différents styles vocaux. La voix s'adapte à la personnalité du personnage pour un jeu de rôle immersif."
+      },
+      {
+        "question": "Que sont les livres de lore ?",
+        "answer": "Les livres de lore sont le système de construction d'univers de SpicyChat. Ils vous permettent de définir des environnements complexes, des règles, des relations et des informations contextuelles que votre bot référence pendant les conversations. Parfaits pour des scénarios de fantasy ou de science-fiction complexes."
+      },
+      {
+        "question": "SpicyChat AI est-il sûr et privé ?",
+        "answer": "SpicyChat AI utilise le chiffrement pour les conversations et ne partage pas vos discussions publiquement. Cependant, comme pour toute plateforme en ligne, évitez de partager des informations personnelles avec les personnages IA. La plateforme est exploitée par NextDay AI Inc, une société légitime basée au Canada."
+      },
+      {
+        "question": "Comment fonctionnent les discussions de groupe ?",
+        "answer": "Les discussions de groupe permettent à plusieurs personnages IA d'interagir dans la même conversation. Vous pouvez créer des scénarios où 2, 3 bots ou plus se parlent et vous parlent. Parfaits pour des jeux de rôle complexes avec multiples personnalités et dynamiques relationnelles."
+      },
+      {
+        "question": "Puis-je gagner de l'argent en créant des bots sur SpicyChat ?",
+        "answer": "Oui ! SpicyChat a un classement des créateurs et des fonctionnalités de monétisation. Les créateurs de bots populaires peuvent gagner de l'argent grâce au système de récompenses de la plateforme. Le programme d'affiliation sur promote.spicychat.ai vous permet également de gagner des commissions en parrainant de nouveaux utilisateurs."
+      }
+    ]
+  },
+  "final_cta": {
+    "title": "Prêt à rencontrer vos personnages IA ?",
+    "subtitle": "Rejoignez plus de 500 000 utilisateurs qui ont déjà découvert leurs compagnons IA parfaits. Commencez votre voyage gratuit dès aujourd'hui.",
+    "cta": "Essayer SpicyChat gratuitement →",
+    "proof": [
+      "Carte bancaire non requise",
+      "500k+ chatbots vous attendent",
+      "Annulation à tout moment"
+    ]
+  },
+  "footer": {
+    "brand": "Avis SpicyChat AI",
+    "description": "Site d'avis indépendant couvrant les plateformes de chatbot IA. Nous testons, comparons et recommandons les meilleures options pour le jeu de rôle IA NSFW.",
+    "columns": [
+      {
+        "title": "Liens rapides",
+        "links": [
+          {
+            "text": "Fonctionnalités",
+            "href": "#features"
+          },
+          {
+            "text": "Bots populaires",
+            "href": "#popular-bots"
+          },
+          {
+            "text": "Tarifs",
+            "href": "#pricing"
+          },
+          {
+            "text": "Alternatives",
+            "href": "#alternatives"
+          },
+          {
+            "text": "FAQ",
+            "href": "#faq"
+          }
+        ]
+      },
+      {
+        "title": "Juridique",
+        "links": [
+          {
+            "text": "Politique de confidentialité",
+            "href": "privacy.html"
+          },
+          {
+            "text": "Conditions d'utilisation",
+            "href": "terms.html"
+          },
+          {
+            "text": "Transparence des liens affiliés",
+            "href": "affiliate-disclosure.html"
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2026 Avis SpicyChat AI. Tous droits réservés. Non affilié à NextDay AI Inc.",
+    "disclaimer": "Transparence des liens affiliés : Nous touchons des commissions lorsque vous achetez via nos liens. Cela n'affecte pas nos recommandations."
+  }
+}
